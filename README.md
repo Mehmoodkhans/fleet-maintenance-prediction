@@ -202,7 +202,7 @@ jupyter notebook 02_data_setup.ipynb
 
 **Mehmood Ahmed Khan**
 - GitHub: [@Mehmoodkhans](https://github.com/Mehmoodkhans)
-- LinkedIn: *[Add your LinkedIn URL here]*
+- LinkedIn: [Mehmood Ahmed Khan](https://www.linkedin.com/in/mehmoood)
 
 ---
 
